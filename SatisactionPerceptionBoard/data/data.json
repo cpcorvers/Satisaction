@@ -1,0 +1,170 @@
+{
+  "pawns": [
+    {
+      "pawn_polarity": 1,
+      "pawn_intensity": 3,
+      "identity": 49,
+      "pawnCenterX": 0,
+      "pawn_x": 15435,
+      "pawnCenterY": 0,
+      "pawn_y": 2399,
+      "direction": 0,
+      "timestamp": 1560352198
+    },
+    {
+      "pawn_polarity": 0,
+      "pawn_intensity": 3,
+      "identity": 1,
+      "pawnCenterX": 0,
+      "pawn_x": 1614,
+      "pawnCenterY": 0,
+      "pawn_y": 880,
+      "direction": 0,
+      "timestamp": 1559917654
+    },
+    {
+      "pawn_polarity": 1,
+      "pawn_intensity": 11,
+      "identity": 52,
+      "pawnCenterX": 1617.5,
+      "pawn_x": 1624,
+      "pawnCenterY": 837,
+      "pawn_y": 789,
+      "direction": 0.1345980167388916,
+      "timestamp": 1559917654
+    },
+    {
+      "pawn_polarity": 0,
+      "pawn_intensity": 5,
+      "identity": 1,
+      "pawnCenterX": 1632.5,
+      "pawn_x": 1645,
+      "pawnCenterY": 202.5,
+      "pawn_y": 267,
+      "direction": -0.19142544269561768,
+      "timestamp": 1559917654
+    },
+    {
+      "pawn_polarity": 1,
+      "pawn_intensity": 8,
+      "identity": 51,
+      "pawnCenterX": 1632.5,
+      "pawn_x": 1620,
+      "pawnCenterY": 202.5,
+      "pawn_y": 138,
+      "direction": -0.19142544269561768,
+      "timestamp": 1559917654
+    },
+    {
+      "pawn_polarity": 1,
+      "pawn_intensity": 11,
+      "identity": 52,
+      "pawnCenterX": 1617.5,
+      "pawn_x": 1624,
+      "pawnCenterY": 837,
+      "pawn_y": 789,
+      "direction": 0.1345980167388916,
+      "timestamp": 1559917653
+    },
+    {
+      "pawn_polarity": 1,
+      "pawn_intensity": 8,
+      "identity": 51,
+      "pawnCenterX": 1631.5,
+      "pawn_x": 1618,
+      "pawnCenterY": 201.5,
+      "pawn_y": 136,
+      "direction": -0.20326054096221924,
+      "timestamp": 1559917653
+    },
+    {
+      "pawn_polarity": 1,
+      "pawn_intensity": 7,
+      "identity": 50,
+      "pawnCenterX": 0,
+      "pawn_x": 1669,
+      "pawnCenterY": 0,
+      "pawn_y": 282,
+      "direction": 0,
+      "timestamp": 1559917529
+    },
+    {
+      "pawn_polarity": 1,
+      "pawn_intensity": 7,
+      "identity": 50,
+      "pawnCenterX": 1508.5,
+      "pawn_x": 1673,
+      "pawnCenterY": 458,
+      "pawn_y": 279,
+      "direction": 0.7432107329368591,
+      "timestamp": 1559917528
+    },
+    {
+      "pawn_polarity": 1,
+      "pawn_intensity": 11,
+      "identity": 52,
+      "pawnCenterX": 1632.5,
+      "pawn_x": 1666,
+      "pawnCenterY": 700,
+      "pawn_y": 865,
+      "direction": 2.9412851333618164,
+      "timestamp": 1559913155
+    },
+    {
+      "pawn_polarity": 1,
+      "pawn_intensity": 6,
+      "identity": 50,
+      "pawnCenterX": 1651,
+      "pawn_x": 1703,
+      "pawnCenterY": 540.5,
+      "pawn_y": 546,
+      "direction": 1.6761738061904907,
+      "timestamp": 1559913155
+    },
+    {
+      "pawn_polarity": 1,
+      "pawn_intensity": 11,
+      "identity": 52,
+      "pawnCenterX": 1544.5,
+      "pawn_x": 1532,
+      "pawnCenterY": 567,
+      "pawn_y": 609,
+      "direction": 3.430863857269287,
+      "timestamp": 1559899433
+    },
+    {
+      "pawn_polarity": 1,
+      "pawn_intensity": 9,
+      "identity": 51,
+      "pawnCenterX": 1681.5,
+      "pawn_x": 1806,
+      "pawnCenterY": 379,
+      "pawn_y": 233,
+      "direction": 0.7060825228691101,
+      "timestamp": 1559899433
+    },
+    {
+      "pawn_polarity": 1,
+      "pawn_intensity": 10,
+      "identity": 51,
+      "pawnCenterX": 1545.5,
+      "pawn_x": 1532,
+      "pawnCenterY": 565.5,
+      "pawn_y": 609,
+      "direction": 3.4425129890441895,
+      "timestamp": 1559899432
+    },
+    {
+      "pawn_polarity": 1,
+      "pawn_intensity": 9,
+      "identity": 51,
+      "pawnCenterX": 1679,
+      "pawn_x": 1801,
+      "pawnCenterY": 379,
+      "pawn_y": 233,
+      "direction": 0.696084201335907,
+      "timestamp": 1559899432
+    }
+  ],
+  "ammount": 0
+}

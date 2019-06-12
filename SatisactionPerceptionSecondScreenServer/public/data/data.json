@@ -1,0 +1,37 @@
+{
+  "pawns": [{
+    "pawn_polarity": 0,
+    "pawn_intensity": 19,
+    "identity": 3,
+    "showed": false,
+    "pawnCenterX": 0,
+    "pawn_x": 1326,
+    "pawnCenterY": 0,
+    "pawn_y": 563,
+    "direction": 0,
+    "timestamp": 1558955777
+  }, {
+    "pawn_polarity": 1,
+    "pawn_intensity": 27,
+    "identity": 53,
+    "showed": false,
+    "pawnCenterX": 681,
+    "pawn_x": 618,
+    "pawnCenterY": 209.5,
+    "pawn_y": 143,
+    "direction": -2.329174041748047,
+    "timestamp": 1558955777
+  }, {
+    "pawn_polarity": 1,
+    "pawn_intensity": 12,
+    "identity": 52,
+    "showed": false,
+    "pawnCenterX": 1452,
+    "pawn_x": 1405,
+    "pawnCenterY": 902,
+    "pawn_y": 908,
+    "direction": 3.014619827270508,
+    "timestamp": 1558955777
+  }],
+  "ammount": 3
+}
